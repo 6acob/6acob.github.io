@@ -11,37 +11,135 @@
 
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .coffeeStyle {
-  padding: 10px;
+  height: 24px;
+  padding: 5px;
 }
 
 .home {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .products {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .blog {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .about {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .contact {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .styleGuide {
-  padding: 10px;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
 }
 
 .cart {
-  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  position: relative;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+.round {
+  position: relative;
+  height: 18px;
+  width: 18px;
+  margin: 5px;
+  background: #1d1f2e;
+  border-radius: 9px;
+}
+
+.paket {
+  margin: 5px;
+}
+.cartButton {
+  margin: 5px;
+}
+.count {
+  text-align: center;
+  color: white;
+}
+
+.line {
+  position: absolute;
+  height: 2px;
+  left: 77%;
+  right: 18%;
+  top: 51px;
+  background: rgba(162, 95, 75, 0.3);
+  border-radius: 0px;
 }

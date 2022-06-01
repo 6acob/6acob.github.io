@@ -1,0 +1,29 @@
+.body {
+  width: 1440px;
+}
+
+.main {
+  text-align: center;
+}
+.background {
+  text-align: center;
+  width: 1380px;
+  height: 530px;
+  top: 80px;
+}
+.backpic {
+  margin-left: 50%;
+  top: 80px;
+  height: 530px;
+  width: 940px;
+}
+.text {
+}
+.text1 {
+}
+.text2 {
+}
+.text3 {
+}
+.text4 {
+}
