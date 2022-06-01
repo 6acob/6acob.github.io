@@ -1,29 +1,47 @@
 .body {
+  width: 1440px;
 }
 
 .header {
+  position: absolute;
+  height: 80px;
+  left: 17.36%;
+  right: 17.36%;
+  top: 0px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .coffeeStyle {
+  padding: 10px;
 }
 
 .home {
+  padding: 10px;
 }
 
 .products {
+  padding: 10px;
 }
 
 .blog {
+  padding: 10px;
 }
 
 .about {
+  padding: 10px;
 }
 
 .contact {
+  padding: 10px;
 }
 
 .styleGuide {
+  padding: 10px;
 }
 
 .cart {
+  padding: 10px;
 }
