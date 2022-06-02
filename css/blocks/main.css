@@ -1,29 +1,53 @@
-.body {
-  width: 1440px;
-}
-
 .main {
-  text-align: center;
-}
-.background {
-  text-align: center;
+  position: relative;
+  top: 80px;
+  left: 255px;
   width: 1380px;
   height: 530px;
-  top: 80px;
 }
-.backpic {
-  margin-left: 50%;
-  top: 80px;
+.background {
+  position: absolute;
+  width: 1380px;
   height: 530px;
-  width: 940px;
+  background: #050827;
+  z-index: -5;
 }
-.text {
+.mug_back {
+  position: absolute;
+  z-index: -3;
+  left: 220px;
 }
-.text1 {
+.main_text {
+  top: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
-.text2 {
+.main_text1 {
+  position: absolute;
+  width: 215px;
+  height: 18px;
+  bottom: 353px;
 }
-.text3 {
+.main_text2 {
+  position: absolute;
+  width: 267px;
+  height: 60px;
+  bottom: 283px;
 }
-.text4 {
+.main_text3 {
+  position: absolute;
+  width: 793px;
+  height: 30px;
+  bottom: 243px;
+}
+.main_text4 {
+  position: absolute;
+  width: 183px;
+  height: 18px;
+  bottom: 177px;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: white;
 }

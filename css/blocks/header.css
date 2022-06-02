@@ -1,5 +1,6 @@
 .body {
   width: 1440px;
+  height: 6338px;
 }
 
 .header {
@@ -137,9 +138,8 @@
 .line {
   position: absolute;
   height: 2px;
-  left: 77%;
-  right: 18%;
-  top: 51px;
+  width: 100px;
+  top: 35px;
   background: rgba(162, 95, 75, 0.3);
   border-radius: 0px;
 }

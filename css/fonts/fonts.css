@@ -1,0 +1,46 @@
+.main_text {
+}
+.main_text1 {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.main_text2 {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffffff;
+}
+.main_text3 {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  /* identical to box height, or 176% */
+
+  text-align: center;
+  color: #ffffff;
+}
+.main_text4 {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
