@@ -1,6 +1,9 @@
-.body {
+body {
   width: 1440px;
   height: 6338px;
+
+  font-family: "Karla";
+  font-style: normal;
 }
 
 .header {
