@@ -115,3 +115,7 @@
   background: #1d1f2e;
   border-radius: 0px;
 }
+.photo {
+  margin-top: 130px;
+  max-width: 1440px;
+}
