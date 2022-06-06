@@ -13,9 +13,6 @@ body {
   align-items: center;
   flex-direction: column;
 }
-.story_text {
-  margin-top: 96px;
-}
 .fullStory {
   margin-top: 250px;
 }
@@ -46,4 +43,48 @@ body {
   flex-direction: row;
 
   margin-bottom: 100px;
+}
+.price1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+
+  text-align: center;
+
+  color: rgba(29, 31, 46, 0.7);
+}
+.price2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 32px;
+
+  text-align: center;
+
+  color: #a25f4b;
+}
+
+.sale {
+  margin-left: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+
+  text-align: center;
+  text-decoration-line: line-through;
+
+  color: rgba(29, 31, 46, 0.4);
+}
+
+.product_name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+
+  text-align: center;
+
+  color: #1d1f2e;
 }
