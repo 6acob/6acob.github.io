@@ -2,6 +2,11 @@ body {
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
+
+  height: 6900px;
+
+  font-family: "Karla";
+  font-style: normal;
 }
 
 .story {
@@ -21,8 +26,6 @@ body {
 }
 
 .featuredMugs {
-  margin-left: auto;
-  margin-right: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
