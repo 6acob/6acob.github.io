@@ -26,8 +26,13 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
 
+.home:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .products {
   font-family: "Karla";
   font-style: normal;
@@ -39,8 +44,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.products:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .blog {
   font-family: "Karla";
   font-style: normal;
@@ -52,8 +61,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.blog:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .about {
   font-family: "Karla";
   font-style: normal;
@@ -65,8 +78,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.about:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .contact {
   font-family: "Karla";
   font-style: normal;
@@ -78,8 +95,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.contact:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .styleGuide {
   font-family: "Karla";
   font-style: normal;
@@ -91,8 +112,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.styleGuide:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .cart {
   display: flex;
   justify-content: space-between;
@@ -108,8 +133,12 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 5px;
+  transition-duration: 450ms;
 }
-
+.cart:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
 .round {
   position: relative;
   height: 18px;
@@ -124,7 +153,9 @@
 }
 .cartButton {
   margin: 5px;
+  transition-duration: 450ms;
 }
+
 .count {
   text-align: center;
   color: white;
